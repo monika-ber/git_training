@@ -1,0 +1,2 @@
+## Plik .gitignore
+Folder .idea został dodany do repozytorium przed powstaniem pliku .gitignore, przez co nadal był trackowany przez gita. Żeby usunąć go z gita, ale nie usuwać go z plików repozytorium lokalnego wykorzystałam polecenie **git rm --cached .idea**. Po wykonaniu tej operacji, dodanie folderu .idea do pliku .gitignore spowoduje, że pomimo tego, że folder .idea nadal istnieje lokalnie, nie będzie ponownie trackowany przez gita.
