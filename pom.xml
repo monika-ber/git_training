@@ -40,4 +40,15 @@
             </plugin>
         </plugins>
     </build>
+	
+	 <developers>
+		<developer>
+		  <id>monika.berent</id>
+		  <name>Monika Berent</name>
+		  <email>monika.berent(at)capgemini(dot)com</email>
+		  <roles>
+			<role>Developer</role>
+		  </roles>
+		</developer>
+	 </developers>
 </project>
